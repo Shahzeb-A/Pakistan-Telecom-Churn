@@ -37,5 +37,15 @@ For the analysis section, we have utilized **PowerBI Dashboard** and **Plotly** 
 
 ### PowerBI Dashboard
 
-```markdown
-<!-- Insert embedded PowerBI Dashboard code heresfe -->
+![Microsoft Power BI - Google Chrome 2_11_2024 9_24_05 PM](https://github.com/Shahzeb-A/Pakistan-Telecom-Churn/assets/63748662/e2c80e0f-dfc0-429b-a265-82765f1f7ff7)
+[View PowerBI Report](https://app.powerbi.com/view?r=eyJrIjoiMDY1MzJjMWItOGU1NS00MjZhLWFkYzAtMDE5YjgyYzNlNWEyIiwidCI6IjViNzNkYWY5LTEyNWItNDZiNy1hY2ZmLTNkNjY2YmY5NGIwOSIsImMiOjl9)
+
+### Plotly Visualizations
+
+![Screenshot 2024-02-11 212944](https://github.com/Shahzeb-A/Pakistan-Telecom-Churn/assets/63748662/e152eada-efb1-494c-8914-d5e3bb976378)
+
+![Screenshot 2024-02-11 213203](https://github.com/Shahzeb-A/Pakistan-Telecom-Churn/assets/63748662/163fc3f1-372c-4d5f-bbb9-c4aee147709c)
+
+### Feature Relevance
+![Screenshot 2024-02-11 214117](https://github.com/Shahzeb-A/Pakistan-Telecom-Churn/assets/63748662/4c20491e-a0ad-4c3d-8640-543ffa0ddba8)
+
