@@ -59,7 +59,7 @@ For the analysis section, we have utilized **PowerBI Dashboard** and **Plotly** 
 ## Validation Loss
 ![Screenshot 2024-02-12 143308](https://github.com/Shahzeb-A/Pakistan-Telecom-Churn/assets/63748662/fd2599f9-0bab-4d7f-9da1-8ec07843d424)
 
-## Precision, Recall, and F1-Score
+## Precision and Recall
 ![Screenshot 2024-02-12 143335](https://github.com/Shahzeb-A/Pakistan-Telecom-Churn/assets/63748662/8d9ef48a-c0a4-442b-81fc-0f08813d50bb)
 
 
