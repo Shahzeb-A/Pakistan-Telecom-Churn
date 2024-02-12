@@ -1,4 +1,5 @@
 # Customer Churn Analysis Repository
+[![GitHub All Releases](https://img.shields.io/github/downloads/Shahzeb-A/Pakistan-Telecom-Churn/total.svg)](https://github.com/Shahzeb-A/Pakistan-Telecom-Churn/releases)
 
 ## Introduction
 
