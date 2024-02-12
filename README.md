@@ -49,3 +49,16 @@ For the analysis section, we have utilized **PowerBI Dashboard** and **Plotly** 
 ### Feature Relevance
 ![Screenshot 2024-02-11 214117](https://github.com/Shahzeb-A/Pakistan-Telecom-Churn/assets/63748662/4c20491e-a0ad-4c3d-8640-543ffa0ddba8)
 
+
+## Model Evaluation
+
+
+![Screenshot 2024-02-12 144032](https://github.com/Shahzeb-A/Pakistan-Telecom-Churn/assets/63748662/4b9cdd0f-b899-4ba6-8200-22f28d7c606a)
+
+![Screenshot 2024-02-12 143308](https://github.com/Shahzeb-A/Pakistan-Telecom-Churn/assets/63748662/fd2599f9-0bab-4d7f-9da1-8ec07843d424)
+
+![Screenshot 2024-02-12 143335](https://github.com/Shahzeb-A/Pakistan-Telecom-Churn/assets/63748662/8d9ef48a-c0a4-442b-81fc-0f08813d50bb)
+
+
+
+
